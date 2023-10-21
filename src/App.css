@@ -102,7 +102,7 @@
 }
 
 .toggle-switch-checkbox:checked + .slider:before {
-  transform: translateX(26px); /* transform değeri değiştirildi */
+  transform: translateX(26px); 
 }
 
 .toggle-switch-checkbox:checked + .slider:after {
@@ -135,7 +135,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
@@ -170,7 +169,6 @@
   border: 1px solid #3730a3;
   padding: 8px 16px;
   border-radius: 4px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -295,9 +293,6 @@
   line-height: 48px;
   display: flex;
   margin-bottom: 3rem;
-
- 
-
   color: #1f2937;
   margin-top: 3rem;
 }
