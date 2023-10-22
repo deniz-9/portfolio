@@ -6,7 +6,7 @@ import movies from "../contents/pagePhotos/movies.png";
 import jokes from "../contents/pagePhotos/jokes.png";
 import shopping from "../contents/pagePhotos/shopping.png";
 import calculator from "../contents/pagePhotos/calculator.png";
-import friends from "../contents/pagePhotos/watchlist.png";
+import watchlist from "../contents/pagePhotos/watchlist.png";
 
 const Projects = ({ darkMode }) => {
   const { t } = useTranslation();
@@ -64,7 +64,7 @@ const Projects = ({ darkMode }) => {
         />
         <Cards
           darkMode={darkMode}
-          imgSrc={friends}
+          imgSrc={watchlist}
           title={t("watchListTitle")}
           text={t("watchListText")}
           githubLink="https://github.com/deniz-9/fsweb-s10g3-redux-watchlist"
