@@ -51,7 +51,7 @@ const resources = {
       calculatorTitle: "Hesap Makinesi",
       watchListTitle: " Film Listesi",
       pizzaText:
-        " React kullanılarak geliştirilen bu etkileşimli web sayfası, Axios, Router, Cypress ve Yup gibi temel araçları barındırıyor. Uygulama istedğiğniz pizzayı seçip sipariş vermenizi sağlamaktadır.",
+        " React kullanılarak geliştirilen bu etkileşimli web sayfası, Axios, Router, Cypress ve Yup gibi temel araçları barındırıyor. Uygulama istediğiniz pizzayı seçip sipariş vermenizi sağlamaktadır.",
       moviesText:
         "Redux Film Projesi, React ve React Router ile oluşturulmuş bir uygulamadır. Uygulamaya yeni filmler ekleyebilir, favorileri görüntüleyebilir veya silebilirsiniz.",
       jokesText:
